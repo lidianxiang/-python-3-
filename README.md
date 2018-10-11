@@ -20,7 +20,7 @@
 
 ## 购书地址
 
-目前在[**京东**](https://item.jd.com/12261161.html)、[**淘宝**](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.55776990I7r57I&id=564890298057&ns=1&abbucket=6)和[**当当**](http://product.m.dangdang.com/25218055.html?&unionid=P-102899392m)上都有的卖，希望有兴趣的小伙伴也来买本看看吧: )  
+目前在[**京东**](https://item.jd.com/12261161.html)、[**淘宝**](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.55776990I7r57I&id=564890298057&ns=1&abbucket=6)和[**当当**](http://product.m.dangdang.com/25218055.html?&unionid=P-102899392m)上都有的卖，希望有兴趣的小伙伴也来买本看看吧  
 
 ![《Python 3学习笔记（上卷）》](https://github.com/lidianxiang/-python-3-/blob/master/s29670060.jpg?raw=true)
 
